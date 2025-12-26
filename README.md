@@ -12,6 +12,12 @@ LightPulseは、自分のサイトのURLを入力するだけで、簡単なSQL�
 - XSS（クロスサイトスクリプティング）検出
 - 検査結果レポート表示
 
+## 技術スタック
+
+- **フロントエンド**: Svelte
+- **バックエンド**: Go (Golang)
+- **コンテナ**: Docker & Docker Compose
+
 ## 要件定義
 
 詳細な要件定義は [requirements.md](./requirements.md) を参照してください。
